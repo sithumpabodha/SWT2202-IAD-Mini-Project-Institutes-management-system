@@ -19,7 +19,7 @@ How to run the Institute Management System Project
 
 Credential for admin panel :
 
-Username: sithum 
+Username: rakfy 
 Password: 1234
 
 Credential for Student / User panel :
