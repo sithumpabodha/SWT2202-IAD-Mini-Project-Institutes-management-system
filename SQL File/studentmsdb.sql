@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 29, 2024 at 11:27 AM
+-- Generation Time: Feb 29, 2024 at 11:40 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -172,9 +172,7 @@ CREATE TABLE `tblstudent` (
 --
 
 INSERT INTO `tblstudent` (`ID`, `StudentName`, `StudentEmail`, `StudentClass`, `Gender`, `DOB`, `StuID`, `FatherName`, `MotherName`, `ContactNumber`, `AltenateNumber`, `Address`, `UserName`, `Password`, `Image`, `DateofAdmission`) VALUES
-(3, 'Anshul', 'anshul@gmali.com', '2', 'Female', '1986-01-05', 'uii-990', 'Kailesg', 'jakinnm', 4646546546, 6546598798, 'jlkjkljoiujiouoil', 'anshul1986', '202cb962ac59075b964b07152d234b70', '4f0691cfe48c8f74fe413c7b92391ff41642605892.jpg', '2022-01-19 15:24:52'),
-(4, 'John Doe', 'john@gmail.com', '1', 'Female', '2002-02-10', '10806121', 'Anuj Kumar', 'Garima Singh', 1234698741, 1234567890, 'New Delhi', 'john12', 'f925916e2754e5e03f75dd58a5733251', 'ebcd036a0db50db993ae98ce380f64191643825985.png', '2022-02-02 18:19:45'),
-(5, 'Sithum Pabodha', 'sithumpabodha@gmail.com', '8', 'Male', '2001-01-23', '1080623', 'Raqsika', 'chintha', 1472589630, 1236987450, 'No.103/2,93 junction,kanthale.', 'sithum', 'f925916e2754e5e03f75dd58a5733251', '2f413c4becfa2db4bc4fc2ccead84f651643828242.png', '2022-02-02 18:57:22'),
+(5, 'Sithum Pabodha', 'sithumpabodha@gmail.com', '8', 'Male', '2001-01-23', '1080623', 'Raqsika', 'chintha', 1472589630, 1236987450, 'No.103/2,93 junction,kanthale.', 'sithum', '81dc9bdb52d04dc20036dbd8313ed055', '2f413c4becfa2db4bc4fc2ccead84f651643828242.png', '2022-02-02 18:57:22'),
 (6, 'abhishek vibhooshitha', 'abhishek@gmail.com', '13', 'Male', '2001-01-12', '085', 'asd', 'asd', 71558860, 71558860, 'kottawa,colombo', 'abhishek', '81dc9bdb52d04dc20036dbd8313ed055', 'a7642afcbc3109e239cbb78a4e8216341708956127.png', '2024-02-26 14:02:07'),
 (7, 'Sithum Pabodha', 'sithumpabodha@gmail.com', '15', 'Male', '2001-01-23', '084', 'test', 'test', 716560510, 716560510, 'No.103/2,93 Junction, Kanthale.', 'sithuma', '81dc9bdb52d04dc20036dbd8313ed055', '3eb6e88d5f2db915c9f545e30fb24b531709197879.jpg', '2024-02-29 09:11:19');
 
