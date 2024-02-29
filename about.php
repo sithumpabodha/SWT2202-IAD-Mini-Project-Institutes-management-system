@@ -51,7 +51,7 @@ include('includes/dbconnection.php');
 				 <img src="images/abt.jpg" class="img-responsive" alt=""/>
 			 </div>
 			 <div class="col-md-7 abt-info-pic">
-			 <div style="text-align: start;"><font color="#7b8898" <span style="font-size: 26px;">
+			 <div style="text-align: start;"><font color="#7b8898" <span style="font-size: 20px;">
 			 Dip Education is a leading provider of postgraduate education programmes in various Commonwealth countries, 
 			 including Sri Lanka, Australia, New Zealand, and the United Kingdom. 
 			 Our courses are designed to equip you with the skills and knowledge to teach in diverse settings, from schools to workplaces,
@@ -63,7 +63,6 @@ include('includes/dbconnection.php');
 			</div>
 			</div>
 </div>
-<
 <!-- /About -->
 <?php include_once('includes/footer.php');?>
 <!--/copy-rights-->
