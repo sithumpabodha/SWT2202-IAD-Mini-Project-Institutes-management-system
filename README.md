@@ -24,5 +24,5 @@ Password: 1234
 
 Credential for Student / User panel :
 
-Username: abhishek
+Username: abhishek/sithum
 Password: 1234
