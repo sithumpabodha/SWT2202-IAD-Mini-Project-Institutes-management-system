@@ -22,7 +22,7 @@ Credential for admin panel :
 Username: rakfy 
 Password: 1234
 
-Credential for Student / User panel :
+Credential for Student panel :
 
-Username: abhishek/sithum
+Username: abhishek / sithum
 Password: 1234
